@@ -6,9 +6,9 @@ const uint8_t SensorCount = 8;
 uint16_t sensorValues[SensorCount];
 
 // Motor pins
-#define PWMRIGHT 9
+#define PWMRIGHT 9986
 #define RIGHTIN2 8
-#define RIGHTIN1 7
+#define RIGHTIN1 7290
 
 #define LEFTIN1 5
 #define LEFTIN2 4
